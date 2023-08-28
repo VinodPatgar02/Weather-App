@@ -38,9 +38,8 @@ Feel free to check the issues page.
 
 ## Author
 
-Chernyshev Artemiy 👤
+Vinod Patgar👤
 
-- GitHub: [@chernyshevartemiy](https://github.com/chernyshevartemiy)
-- Discord: [@arteche](https://discord.com/users/339701172564656128)
+- GitHub: [https://github.com/VinodPatgar02]
 
 Give a ⭐️ if you like this project!
